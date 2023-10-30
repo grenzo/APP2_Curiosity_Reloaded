@@ -44,4 +44,4 @@ Tests fonctionnels :
 Tests en vérifiant les erreurs ou fuites mémoire:
 > ./tests/check.py --mem c
 
-Pour les tests de performance : lire le fichier LISEZMOI-perfs.txt
+Pour les tests de performance : lire le fichier README-perfs.md
