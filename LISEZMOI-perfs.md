@@ -7,7 +7,7 @@ le répertoire tests/ sans créer de sous-répertoire
 Il faudra désactiver les affichages (print / printf). 
 
 ****************************************************************
-*  Langage C                                                   *
+### Langage C                                                   
 ****************************************************************
 
 La méthode recommandée est de les effectuer sur le serveur Turing.
@@ -34,7 +34,7 @@ Ou lancer une batterie de tests de performance (avec génération de courbes):
 
 
 *************
-* Sous MacOS
+### Sous MacOS
 
 Sur un ordinateur personnel, il faut installer la librairie python 
 'matplotlib'.  (avec 'python -m pip install -U matplotlib')
@@ -54,7 +54,7 @@ brew install coreutils
 
 
 ***********************
-* Avoir les graphiques
+### Avoir les graphiques
 
 Pour avoir la génération des graphiques, il faut installer matplotlib qui a plusieurs dépendances (normalement installé sur les machines du DLST).
 Sinon, il est possible de désactiver la génération en mettant à False la variable suivante dans run.py:
